@@ -41,7 +41,7 @@ There are 3 interface button
 
 
 ### Picture1
-
+![picture1](https://user-images.githubusercontent.com/60171037/85101457-67a77b80-b23d-11ea-89f6-870be7cc9f39.png)
 When the players play the game the first screen_shown
 
 
@@ -51,6 +51,7 @@ When the players play the game the first screen_shown
 ### Picture2
 
 
+![Weapon Chose Image](https://user-images.githubusercontent.com/60171037/85101473-75f59780-b23d-11ea-9065-f22cd74abc35.png)
 
 Before  kills Googly_eyes monster  player should chose what types of waepon they use 
 
@@ -70,7 +71,7 @@ Each weapon have diffrent damage and bullets
 
 
 ### Picture3
-
+![GameScreen](https://user-images.githubusercontent.com/60171037/85101497-80b02c80-b23d-11ea-8264-77fbb9e26f9c.png)
 
 
 When player pressed play button game will run
