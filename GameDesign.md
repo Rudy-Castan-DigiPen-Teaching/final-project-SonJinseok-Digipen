@@ -44,7 +44,7 @@ There are 3 interface button
 
 When the players play the game the first screen_shown
 
-![picture1](C:\Users\user\Desktop\picture1.png)
+
 
 
 
@@ -56,7 +56,6 @@ Before  kills Googly_eyes monster  player should chose what types of waepon they
 
 Each weapon have diffrent damage and bullets 
 
-![Weapon Chose Image](C:\Users\user\Desktop\Weapon Chose Image.png)
 
 
 
@@ -80,5 +79,5 @@ All goolgy_eyes monsetr moving patters are diffrent
 
 If the player's mouse is correctly aimed at the monsters and the right mouse button is pressed, the effect of the monster exploding will appear.
 
-![GameScreen](C:\Users\user\Desktop\GameScreen.png)
+
 
