@@ -16,9 +16,7 @@ class target
    
   }
   
-  
- 
-  
+    
   Update()
   {
    this.ClickCount();
@@ -28,21 +26,20 @@ class target
        
    this.radius+=deltaTime/100;
     
-   if(this.timeElapsed>30)
+   if(this.timeElapsed>10)
    {
      this.Isbig=true;
      
    }
    
     //decide how many click destory 
-   if(this.clickcount==2)
+   if(this.clickcount==4)
    {
      
      this.Isbig=true;
    } 
     
-   
-  }
+     }
       
   Click()
   {
