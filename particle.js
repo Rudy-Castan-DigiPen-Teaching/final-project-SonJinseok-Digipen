@@ -19,7 +19,7 @@ class particle
   {
   this.position=position;
   this.velocity=velocity;
-  this.lifeTime=20;
+  this.lifeTime=40
        
   }
   

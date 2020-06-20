@@ -7,7 +7,7 @@ function setup() {
   //p1=new Explode();
   //p1.reset(createVector(400,400))
     p1=new target();
-  console.log(p1);
+    
   
  
 }
@@ -17,7 +17,7 @@ function draw() {
   
   p1.Update();
   p1.Draw()
- 
+  console.log(p1);
   //noLoop();
   
   
