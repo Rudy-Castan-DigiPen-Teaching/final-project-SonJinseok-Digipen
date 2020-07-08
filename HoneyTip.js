@@ -1,3 +1,9 @@
+/*Author : Jinseok Son
+Assignment name :Final-Project 
+Course : CS099
+Semester : Spring-2020
+*/
+
 class DeveloperHoneyTip
 {
   
