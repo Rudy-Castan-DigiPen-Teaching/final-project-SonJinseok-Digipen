@@ -20,7 +20,7 @@ Roguelike, FPS??
 
 ### Game Flow 
 
-When the game begins, the player chooses one of two weapons.  Each of the two weapons has a different way to attack monsters. First weapon have a lot of damage but small bullet. Second weapon have  a lot of bullet but small damge. After player chose weapon game will create monsters at random position and all monsters have random move pattern.
+When the game begins, Players can see Game menu in game menu player can check play,options,credits if player clicked play button player can play my gmae and if player health is under 0 play wil see lose screen in lose screen player can choose retry or go to mainmenu. in option screen player, can change their cross_hair
 
 ### How to clear?
 
@@ -34,7 +34,7 @@ There are 3 interface button
 
 1.play  : Press the play button to enter real game mode.
 
-2.option : Player can change background music
+2.option : Player can change player aim
 
 3.credits : player can check the name of the game director and the license information used.
 
@@ -43,27 +43,6 @@ There are 3 interface button
 ### Picture1
 ![picture1](https://user-images.githubusercontent.com/60171037/85101457-67a77b80-b23d-11ea-89f6-870be7cc9f39.png)
 When the players play the game the first screen_shown
-
-
-
-
-
-### Picture2
-
-
-![Weapon Chose Image](https://user-images.githubusercontent.com/60171037/85101473-75f59780-b23d-11ea-9065-f22cd74abc35.png)
-
-Before  kills Googly_eyes monster  player should chose what types of waepon they use 
-
-Each weapon have diffrent damage and bullets 
-
-
-
-
-
-
-
-
 
 
 
