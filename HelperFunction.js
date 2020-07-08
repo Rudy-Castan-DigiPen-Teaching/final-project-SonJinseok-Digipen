@@ -1,5 +1,8 @@
-
-//SpawnBoom1
+/*Author : Jinseok Son
+Assignment name :Final-Project 
+Course : CS099
+Semester : Spring-2020
+*/
 
 
 function Phase1_SpawnBoom1()
