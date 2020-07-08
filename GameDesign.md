@@ -19,12 +19,11 @@ Roguelike, FPS??
 
 
 ### Game Flow 
-
-When the game begins, Players can see Game menu in game menu player can check play,options,credits if player clicked play button player can play my gmae and if player health is under 0 play wil see lose screen in lose screen player can choose retry or go to mainmenu. in option screen player, can change their cross_hair
+![GameFlow](https://user-images.githubusercontent.com/60171037/86918676-f84ce980-c161-11ea-8a17-fcf612bb45fd.png)
 
 ### How to clear?
 
-There is 4 stage  If the player can kill all enemies on stage 4 in time, player can see the ending screen.
+There is no clear condition if player live longer player can get more high score
 
 
 
