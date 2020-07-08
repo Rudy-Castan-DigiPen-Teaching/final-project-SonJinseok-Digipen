@@ -1,3 +1,12 @@
+/*Author : Jinseok Son
+Assignment name :Final-Project 
+Course : CS099
+Semester : Spring-2020
+*/
+
+
+
+
 class button{
   
 constructor(the_left=0,the_top=0,button_lable="Clicked Me")
