@@ -1,3 +1,12 @@
+/*Author : Jinseok Son
+Assignment name :Final-Project 
+Course : CS099
+Semester : Spring-2020
+*/
+
+
+
+
 let time=0;
 let timeElapsed=0;
 let targets=[];
