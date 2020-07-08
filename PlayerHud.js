@@ -1,9 +1,31 @@
+/*Author : Jinseok Son
+Assignment name :Final-Project 
+Course : CS099
+Semester : Spring-2020
+*/
+
+
+
+
 class playerHud
 {
  constructor()
  {
   this.healthpoint=100;
   this.left=0;
+ constructor()
+ {
+  this.healthpoint=100;
+  this.left=0;
+  this.top=0;
+  this.width=505;
+  this.height=220;
+  this.haahthbarleft=170;
+  this.healthbartop=25;
+  this.healthbarwidth=300;
+  this.healthbarheight=50;
+  this.timer=0;
+  this.score=0;
   this.top=0;
   this.width=505;
   this.height=220;
